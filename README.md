@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mijael Segura</h1>
-<h3 align="center">A passionate Developer and Software Engineering student from Argentina</h3>
+<h3 align="center">A passionate Developer and Advanced Software Engineering student from Argentina</h3>
 
 - 📫 How to reach me **seguramijael03@gmail.com**
 
